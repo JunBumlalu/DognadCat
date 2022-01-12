@@ -200,7 +200,7 @@ body {
 .bar-container {
   height: 2.7rem;
 }
-.ilnam-box {
+dog-box {
   position: absolute;
   top: 0;
   left: 0;
@@ -209,7 +209,7 @@ body {
   width: 100%;
   background-color: rgba(117, 204, 84, 0.2);
 }
-.ilnam-bar {
+dog-bar {
   position: absolute;
   top: 0;
   left: 0;
@@ -217,7 +217,7 @@ body {
   border-radius: 10px;
   background-color: rgba(117, 204, 84, 1);
 }
-.sangwoo-box {
+.cat-box {
   position: absolute;
   top: 0;
   left: 0;
@@ -226,7 +226,7 @@ body {
   width: 100%;
   background-color: rgba(117, 204, 84, 0.2);
 }
-.sangwoo-bar {
+.cat-bar {
   position: absolute;
   top: 0;
   left: 0;
@@ -251,7 +251,7 @@ body {
   border-radius: 10px;
   background-color: rgba(27, 175, 234, 1);
 }
-.saebyeog-box {
+dogbox {
   position: absolute;
   top: 0;
   left: 0;
@@ -260,7 +260,7 @@ body {
   width: 100%;
   background-color: rgba(251, 176, 59, 0.2);
 }
-.saebyeog-bar {
+dogbar {
   position: absolute;
   top: 0;
   left: 0;
@@ -340,17 +340,10 @@ body {
 .animal-explain {
     font-size: 1.5rem;
 }
-.ilnam-animal-title {
+.cat-animal-title {
     color: #3ba363;
 }
-.ilnam-animal-celeb {
-    color: #3ba363;
-    font-size: 1.2rem;
-}
-.sangwoo-animal-title {
-    color: #3ba363;
-}
-.sangwoo-animal-celeb {
+.cat-animal-celeb {
     color: #3ba363;
     font-size: 1.2rem;
 }
@@ -361,10 +354,10 @@ body {
     color: #ff6c0a;
     font-size: 1.2rem;
 }
-.saebyeog-animal-title {
+.dog-animal-title {
     color: #548dd4;
 }
-.saebyeog-animal-celeb {
+.dog-animal-celeb {
     color: #548dd4;
     font-size: 1.2rem;
 }
